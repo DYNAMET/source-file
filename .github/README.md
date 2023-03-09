@@ -6,7 +6,7 @@
 
 
 
-## 🖇 بوت الجلسات
+## 🖇 نحن الافضل 
 
 <p>
 <a href="https://t.me/helal_trmix_BOT"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
