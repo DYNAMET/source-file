@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/315136dc9a77067855427.jpg" align="right" width="200" height="200"/>
 
-# Gohara Music Bot
+# loura Music Bot
 
 [سورس لورين ](https://github.com/mohamedhelal12/gohara) هوه السورس المعرب الوحيد 
 
