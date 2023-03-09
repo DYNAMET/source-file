@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/315136dc9a77067855427.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/f78e54b8b72f404fc4fe6.jpg" align="right" width="200" height="200"/>
 
 # loura Music Bot
 
