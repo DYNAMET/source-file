@@ -49,7 +49,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 # مش فاهم فيها سبها زي مهيه
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://t.me/SR_LOUREN",
+    "https://github.com/DYNAMET/source-file",
 )
 #متغيرهاش نهائي
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
